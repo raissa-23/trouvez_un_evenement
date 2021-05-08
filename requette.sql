@@ -1,0 +1,1 @@
+ALTER TABLE `utilisateur` CHANGE `numero_tel` `numero_tel` VARCHAR(20) NULL DEFAULT NULL;
