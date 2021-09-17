@@ -34,7 +34,7 @@ de début et une date de fin. Lutilisateur a la possibilité de zoomer pour mieu
 
 
 ## Membre du projet
-- **MOAMED  Raissa**
+- **MOHAMED  Raissa**
 - **Loknaresh Ujoodha** 
 
 
