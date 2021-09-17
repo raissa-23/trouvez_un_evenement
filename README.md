@@ -9,7 +9,7 @@ que nos internautes puissent également retrouver les événements dans les autr
 Après le lancement de notre plateforme, l’utilisateur à une interface où il peut faire ses différentes recherches d'événements. Il a aussi plusieurs fonctionnalités à savoir: créer un compte, se connecter sur son espace personnel, ajouter des évènements, éditer son profil, consulter son calendrier,
 consulter la carte géographique et aussi nous contacter.
 
-## Diffrentes maniere d'afficher un événement
+## Diffrentes manières d'afficher un événement
 .Après avoir rempli les différents champs de recherche et lancé sa recherche, tous les événements qui correspondent à sa demande seront affichés du plus récent au plus ancien. Il faut savoir que les champs “saisir votre événement” et “la date” sont obligatoires pour pouvoir faire une recherche.
 
 . Nous avons aussi mis en place une carte géographique qui est une autre façon d’afficher les événements mais cette fois à partir d’une période saisie. “Consulter la carte géographique" nous dirige vers une page conetenant une carte géographique de Google Map API qui localise les événements entre une date
