@@ -24,7 +24,7 @@ de début et une date de fin. Lutilisateur a la possibilité de zoomer pour mieu
 - **GitHub**  : plateforme de contribution.
 - **Visual studio** : usage de cette application pour écrire du code
 
-## Languages utilisée
+## Languages utilisés
 - **PHP**
 - **CSS**
 - **HTML**
